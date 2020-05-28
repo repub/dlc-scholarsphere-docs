@@ -106,25 +106,18 @@ Certain file formats (such as openly-documented, non-proprietary, lossless) are 
 
 ## Visibility (Access Levels) and Sharing
 
-The depositor sets permissions during the upload process. Access permissions give the depositor of content the ability to control who can find, see, edit and download their content. You have the option of setting both \"Visibility\" (who can see an item) and \"Share With\" (who can edit.)
+The depositor sets permissions during the upload process. Access permissions give the depositor of content the ability to control who can find, see, edit and download their content. You have the option of setting both \"Visibility\" (who can see an item) and \"Share With\" (who can edit.) ScholarSphere used the following visibility settings.
 
-**Visibility:** ScholarSphere used the following visibility settings.
+- **Public:** The default setting for visibility of your content is **Public**. The **Public** setting will allow your content to be discovered in Google and accessed by anyone. 
+- **Penn State:** Allows only users who are logged into ScholarSphere (via WebAccess) to view the content. 
+- **Embargoed:** Keeps your content private or open only to Penn State until a specified date (no more than 3 years). At this point your content will become public.
+- **Leased:** Makes your content initially public then reverts to Penn State only or Private after the specified amount of time.
+- **Share With Collaborates:** You may grant \"View/Download\" or \"Edit\" access for specific users and/or groups to files. Enter a valid Penn State Access Account Id, one at a time, select the access level for that user and click Add. The list of groups in the drop-down marked \"Select a group\" is a list of User Managed Groups managed by Penn State\'s ITS department. You may select a specific group and assign an access level for a file within ScholarSphere - similar to adding user access levels. However, management of these groups and their membership is handled centrally at umg.its.psu.edu.
 
-**Public: **The default setting for visibility of your content is **Public**. The **Public** setting will allow your content to be discovered in Google and accessed by anyone. 
+### Permission Definitions
 
-**Penn State:** Allows only users who are logged into ScholarSphere (via WebAccess) to view the content. 
-
-**Embargoed:** Keeps your content private or open only to Penn State until a specified date (no more than 3 years). At this point your content will become public.
-
-**Leased:** Makes your content initially public then reverts to Penn State only or Private after the specified amount of time.
-
-**Share With Collaborates:** You may grant \"View/Download\" or \"Edit\" access for specific users and/or groups to files. Enter a valid Penn State Access Account Id, one at a time, select the access level for that user and click Add. The list of groups in the drop-down marked \"Select a group\" is a list of User Managed Groups managed by Penn State\'s ITS department. You may select a specific group and assign an access level for a file within ScholarSphere - similar to adding user access levels. However, management of these groups and their membership is handled centrally at umg.its.psu.edu.
-
-**Permission Definitions**
-
--   **View/Download: **This file (both contents and metadata) is accessible from within ScholarSphere.
-
--   **Edit: **This file (both contents and metadata) can be edited. You may only grant this permission to Penn State users and/or groups.
+- **View/Download:** This file (both contents and metadata) is accessible from within ScholarSphere.
+- **Edit:** This file (both contents and metadata) can be edited. You may only grant this permission to Penn State users and/or groups.
 
 
 # ScholarSphere Deposit Agreement

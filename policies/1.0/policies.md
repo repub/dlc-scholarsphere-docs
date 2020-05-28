@@ -85,7 +85,6 @@ Depositing your work in ScholarSphere means the following:
 -   You (and any co-authors) retain copyright to the work and the right to use all or part in future works
 -   Research data will be reviewed and curated with the help of the creators. 
 -   Research data should include
-
     -   A README file
     -   Data dictionaries for tabular data
     -   Other relevant metadata and documentation

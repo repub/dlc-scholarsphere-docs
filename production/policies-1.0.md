@@ -1,13 +1,16 @@
-# Table of Contents
+
+# ScholarSphere Policies (v1.0)
+
+> This is a legacy policy statement. It is superseded by [version 2.0](policies-2.0).
+
+## Table of Contents
 
 - [About ScholarSphere](#About-ScholarSphere)
 - [Policies](#Policies)
 - [Deposit Agreement](#ScholarSphere-Deposit-Agreement)
 - [Terms of Use](#Terms-of-Use-for-ScholarSphere)
 
-# About ScholarSphere
-
-ScholarSphere is Penn State's institutional repository - a repository service for research and scholarly work produced by the university community. Through ScholarSphere, Penn State researchers - faculty,students, and staff alike - are able to share their work on a worldwide scale and be assured of its long-term preservation and thus ongoing access.
+# About ScholarSphere
 
 ## As the institutional repository for Penn State, ScholarSphere provides the following:
 
